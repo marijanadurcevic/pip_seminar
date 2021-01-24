@@ -1,0 +1,50 @@
+h1{
+  color: #6badda;
+}
+
+body{
+  background-color:rgb(90, 90, 90);
+}
+.App{
+  background-color: rgb(185, 212, 228);
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  border: 4px solid #515357;
+  border-radius: 10px;
+}
+#todo-form input{
+  background-color: #00fa9a;
+  border: 2px;
+  width: 200px;
+  height: 50;
+  padding: 0 20px;
+  margin: 20px;
+  border-radius: 10px;
+  color: #000;
+  float: center;
+}
+#todo-form button{
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color: brown;
+}
+
+#add {
+  height: 30px;
+  width: 100px;
+  color: white;
+  background-color:  #6badda;
+  border-radius: 6px;
+}
+
+#input {
+  height: 20px;
+  width: 150px;
+}
+
+
+
+
